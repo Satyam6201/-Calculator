@@ -45,5 +45,3 @@ The **Stylish Calculator Web App** is a modern, responsive, and feature-rich cal
 
 ![image](https://github.com/user-attachments/assets/fda1b0f6-08f9-4339-b64a-de632a5443bd)
 ![image](https://github.com/user-attachments/assets/eb4ccdf8-73ac-4369-a3d1-209825dc5902)
-
-
