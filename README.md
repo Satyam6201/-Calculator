@@ -38,7 +38,6 @@ The **Stylish Calculator Web App** is a modern, responsive, and feature-rich cal
 - **HTML** – structure and layout
 - **CSS** – modern styling with responsive design & transitions
 - **JavaScript** – logic for operations, theme toggle, event handling
-
 ---
 
 ## 📸 Screenshots
