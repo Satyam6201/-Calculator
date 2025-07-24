@@ -1,46 +1,72 @@
-# Stylish Calculator Web App 🧮✨
+# 🔢 Advanced Animated Calculator Web App
 
-The **Stylish Calculator Web App** is a modern, responsive, and feature-rich calculator built using **HTML, CSS, and JavaScript**. It combines sleek design with powerful functionality, providing both standard and scientific operations in a clean, user-friendly interface.
-
----
-
-## 🚀 Features
-
-- ✅ Basic arithmetic operations (➕ ➖ ✖️ ➗)
-- ✅ Scientific functions:
-  - `sin`, `cos`, `tan`, `log`, `√`, `x²`
-- ✅ Constants:
-  - π (Pi), e (Euler's Number)
-- ✅ Advanced operations:
-  - Power, factorial, modulus
-- ✅ Utility functions:
-  - Clear Entry (CE), All Clear (AC), Backspace
-- ✅ Multi-digit buttons: `00`, `×10`
-- ✅ Real-time input display
-- ✅ **Dark/Light Mode Toggle 🌗**
-- ✅ Responsive Design – works on all screen sizes
-- ✅ Stylish UI with hover effects, glow buttons & animations
+A powerful, animated, and user-friendly calculator built using **HTML**, **CSS**, and **JavaScript**.  
+This calculator mimics real-world behavior with smooth animations, keyboard support, dark/light theme, sound effects, and mobile responsiveness.
 
 ---
 
-## 🎨 UI/UX Design
+## 🌐 Live Preview
 
-- 🔹 **Neumorphic design**: Soft shadows, depth effects, rounded buttons
-- 🔹 **Animated button hover effects**: Smooth transitions & interactivity
-- 🔹 **Dark Mode support**: User-friendly toggle switch
-- 🔹 Clean layout using Flexbox for alignment and responsiveness
-- 🔹 Intuitive keyboard input and easy-to-use interface
+- 🔗 **Live App**: [https://calculator-gamma-cyan-77.vercel.app/](https://calculator-gamma-cyan-77.vercel.app/)
+- 🧑‍💻 **GitHub Repo**: [https://github.com/Satyam6201/-Calculator](https://github.com/Satyam6201/-Calculator)
 
 ---
 
-## 📁 Tech Stack
+## 🧠 Project Highlights
 
-- **HTML** – structure and layout
-- **CSS** – modern styling with responsive design & transitions
-- **JavaScript** – logic for operations, theme toggle, event handling
+| Feature                    | Description                                                                 |
+|---------------------------|-----------------------------------------------------------------------------|
+| ✅ Responsive Layout       | Fully optimized for desktop, tablet, and mobile views                       |
+| 🌙 Light/Dark Mode        | Toggle between modern dark and clean light themes                          |
+| 🎯 Basic Operations        | Supports `+`, `-`, `*`, `/`, `%`, decimal values                           |
+| ⌨️ Keyboard Support       | Operate using keyboard keys like Enter, Backspace, numbers, and operators  |
+| 🔊 Sound Feedback         | Button click sound effect for interactive UX                                |
+| 🔁 Smooth Animations       | Button bounce, fade-in, and sliding UI effects using CSS3                   |
+| 💥 Error Handling         | Prevents invalid calculations and syntax issues                             |
+| 🧼 AC & DEL Buttons       | AC clears all; DEL deletes last character                                   |
+| ⚙️ Simple & Clean Code     | Easy to read, modify, and extend for beginners                              |
+
 ---
 
-## 📸 Screenshots
+## ✨ Technologies Used
 
-![image](https://github.com/user-attachments/assets/fda1b0f6-08f9-4339-b64a-de632a5443bd)
-![image](https://github.com/user-attachments/assets/eb4ccdf8-73ac-4369-a3d1-209825dc5902)
+- **HTML5** – Semantic structure and accessibility
+- **CSS3** – Flexbox, transitions, animations, responsive design
+- **Vanilla JavaScript** – Logic, interaction, and dynamic behavior
+
+---
+
+## 🧪 Installation (Optional for Local Use)
+
+```bash
+# Clone the repo
+git clone https://github.com/Satyam6201/-Calculator.git
+```
+
+
+⌨️ Keyboard Shortcuts Reference
+```
+Key	Function
+0-9	Input numbers
++ - * / %	Input operators
+.	Add decimal
+Enter / =	Calculate result
+Backspace	Delete last digit
+Escape or AC	Clear all
+
+```
+---
+
+📁 Project Folder Structure
+```
+/Calculator
+├── index.html       # Main HTML structure
+├── style.css        # Custom styles & animations
+├── script.js        # Calculator logic & interactions
+└── README.md        # Project documentation
+```
+---
+
+🙋‍♂️ About Me
+Created with ❤️ by Satyam Kumar Mishra
+🔗 GitHub | 🧑‍🏫 Web Developer & Tech Enthusiast
