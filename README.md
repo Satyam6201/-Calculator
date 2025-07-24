@@ -42,19 +42,6 @@ This calculator mimics real-world behavior with smooth animations, keyboard supp
 # Clone the repo
 git clone https://github.com/Satyam6201/-Calculator.git
 ```
-
-
-⌨️ Keyboard Shortcuts Reference
-```
-Key	Function
-0-9	Input numbers
-+ - * / %	Input operators
-.	Add decimal
-Enter / =	Calculate result
-Backspace	Delete last digit
-Escape or AC	Clear all
-
-```
 ---
 
 📁 Project Folder Structure
