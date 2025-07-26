@@ -7,8 +7,6 @@ This calculator mimics real-world behavior with smooth animations, keyboard supp
 
 ## 🌐 Live Preview
 
-- 🔗 **Live App**: [https://calculator-gamma-cyan-77.vercel.app/](https://calculator-gamma-cyan-77.vercel.app/)
-- 🧑‍💻 **GitHub Repo**: [https://github.com/Satyam6201/-Calculator](https://github.com/Satyam6201/-Calculator)
  <p align="center">
   <a href="https://calculator-gamma-cyan-77.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🔴 Live-Demo-green?style=for-the-badge" /></a>
   <a href="https://github.com/Satyam6201/-Calculator" target="_blank"><img src="https://img.shields.io/badge/💻 Source-Code-blue?style=for-the-badge" /></a>
