@@ -38,9 +38,6 @@ This calculator mimics real-world behavior with smooth animations, keyboard supp
 - **Vanilla JavaScript** – Logic, interaction, and dynamic behavior
 
 ---
-
----
-
 📁 Project Folder Structure
 ```
 /Calculator
