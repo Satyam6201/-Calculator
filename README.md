@@ -39,12 +39,6 @@ This calculator mimics real-world behavior with smooth animations, keyboard supp
 
 ---
 
-## 🧪 Installation (Optional for Local Use)
-
-```bash
-# Clone the repo
-git clone https://github.com/Satyam6201/-Calculator.git
-```
 ---
 
 📁 Project Folder Structure
